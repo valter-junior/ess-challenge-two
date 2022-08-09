@@ -9,6 +9,7 @@ def search(arr, n, x):
         #Complete the function here
 		if (arr[i] == x):
 			return i
+
 	return -1
 
 
